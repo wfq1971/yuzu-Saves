@@ -1,0 +1,330 @@
+[   0.328179] Input <Info> input_common\drivers\udp_client.cpp:UDPClient:139: Udp Initialization started
+[   0.328197] Input <Info> input_common\drivers\udp_client.cpp:StartCommunication:331: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.567968] Frontend <Info> yuzu\main.cpp:GMainWindow:346: yuzu Version: yuzu 1230
+[   0.567997] Frontend <Info> yuzu\main.cpp:LogRuntimes:229: MSVC Compiler: 1933 Runtime: 14.42.34438.0
+[   0.568001] Frontend <Info> yuzu\main.cpp:GMainWindow:362: Host CPU:       Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz | AVX
+[   0.568144] Frontend <Info> yuzu\main.cpp:GMainWindow:364: Host OS: Windows 10 Version 22H2 (Build 19045.5608)
+[   0.568166] Frontend <Info> yuzu\main.cpp:GMainWindow:366: Host RAM: 31.92 GiB
+[   0.568167] Frontend <Info> yuzu\main.cpp:GMainWindow:367: Host Swap: 4.00 GiB
+[   2.105688] Frontend <Info> yuzu\main.cpp:BootGame:1641: yuzu starting...
+[   2.120410] Config <Info> common\settings.cpp:LogSettings:40: yuzu Configuration:
+[   2.120419] Config <Info> common\settings.cpp:operator ():33: Controls_UseDockedMode: true
+[   2.120421] Config <Info> common\settings.cpp:operator ():33: System_RngSeed: 0
+[   2.120424] Config <Info> common\settings.cpp:operator ():33: System_CurrentUser: 0
+[   2.120426] Config <Info> common\settings.cpp:operator ():33: System_LanguageIndex: 1
+[   2.120430] Config <Info> common\settings.cpp:operator ():33: System_RegionIndex: 1
+[   2.120431] Config <Info> common\settings.cpp:operator ():33: System_TimeZoneIndex: 0
+[   2.120432] Config <Info> common\settings.cpp:operator ():33: Core_UseMultiCore: true
+[   2.120435] Config <Info> common\settings.cpp:operator ():33: CPU_Accuracy: 0
+[   2.120436] Config <Info> common\settings.cpp:operator ():33: Renderer_UseResolutionScaling: 2
+[   2.120437] Config <Info> common\settings.cpp:operator ():33: Renderer_ScalingFilter: 1
+[   2.120438] Config <Info> common\settings.cpp:operator ():33: Renderer_AntiAliasing: 0
+[   2.120439] Config <Info> common\settings.cpp:operator ():33: Renderer_UseSpeedLimit: true
+[   2.120440] Config <Info> common\settings.cpp:operator ():33: Renderer_SpeedLimit: 100
+[   2.120441] Config <Info> common\settings.cpp:operator ():33: Renderer_UseDiskShaderCache: true
+[   2.120442] Config <Info> common\settings.cpp:operator ():33: Renderer_GPUAccuracyLevel: 1
+[   2.120442] Config <Info> common\settings.cpp:operator ():33: Renderer_UseAsynchronousGpuEmulation: true
+[   2.120443] Config <Info> common\settings.cpp:operator ():33: Renderer_NvdecEmulation: 2
+[   2.120444] Config <Info> common\settings.cpp:operator ():33: Renderer_AccelerateASTC: true
+[   2.120445] Config <Info> common\settings.cpp:operator ():33: Renderer_UseVsync: true
+[   2.120446] Config <Info> common\settings.cpp:operator ():33: Renderer_ShaderBackend: 1
+[   2.120447] Config <Info> common\settings.cpp:operator ():33: Renderer_UseAsynchronousShaders: false
+[   2.120448] Config <Info> common\settings.cpp:operator ():33: Renderer_AnisotropicFilteringLevel: 0
+[   2.120450] Config <Info> common\settings.cpp:operator ():33: Audio_OutputEngine: auto
+[   2.120451] Config <Info> common\settings.cpp:operator ():33: Audio_OutputDevice: auto
+[   2.120461] Config <Info> common\settings.cpp:operator ():33: Audio_InputDevice: auto
+[   2.120462] Config <Info> common\settings.cpp:operator ():33: DataStorage_UseVirtualSd: true
+[   2.120468] Config <Info> common\settings.cpp:operator ():37: DataStorage_CacheDir: C:\Users\john lee\AppData\Roaming\yuzu\cache
+[   2.120470] Config <Info> common\settings.cpp:operator ():37: DataStorage_ConfigDir: C:\Users\john lee\AppData\Roaming\yuzu\config
+[   2.120471] Config <Info> common\settings.cpp:operator ():37: DataStorage_LoadDir: C:\Users\john lee\AppData\Roaming\yuzu\load
+[   2.120473] Config <Info> common\settings.cpp:operator ():37: DataStorage_NANDDir: C:\Users\john lee\AppData\Roaming\yuzu\nand
+[   2.120474] Config <Info> common\settings.cpp:operator ():37: DataStorage_SDMCDir: C:\Users\john lee\AppData\Roaming\yuzu\sdmc
+[   2.120476] Config <Info> common\settings.cpp:operator ():33: Debugging_ProgramArgs: 
+[   2.120476] Config <Info> common\settings.cpp:operator ():33: Debugging_GDBStub: false
+[   2.120477] Config <Info> common\settings.cpp:operator ():33: Input_EnableMotion: true
+[   2.120478] Config <Info> common\settings.cpp:operator ():33: Input_EnableVibration: true
+[   2.120479] Config <Info> common\settings.cpp:operator ():33: Input_EnableRawInput: false
+[   2.457748] Render.OpenGL <Info> video_core\renderer_opengl\gl_device.cpp:Device:200: Renderer_VariableAOFFI: true
+[   2.457758] Render.OpenGL <Info> video_core\renderer_opengl\gl_device.cpp:Device:201: Renderer_ComponentIndexingBug: false
+[   2.457759] Render.OpenGL <Info> video_core\renderer_opengl\gl_device.cpp:Device:202: Renderer_PreciseBug: false
+[   2.457760] Render.OpenGL <Info> video_core\renderer_opengl\gl_device.cpp:Device:204: Renderer_BrokenTextureViewFormats: false
+[   2.583496] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:AddTelemetryFields:304: GL_VERSION: 4.6.0 NVIDIA 572.60
+[   2.583507] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:AddTelemetryFields:305: GL_VENDOR: NVIDIA Corporation
+[   2.583508] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:AddTelemetryFields:306: GL_RENDERER: NVIDIA GeForce GTX 1080/PCIe/SSE2
+[   2.601175] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:84: Auto-selecting the cubeb backend
+[   2.619288] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:84: Auto-selecting the cubeb backend
+[   2.635382] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontStandard' (0x0100000000000811).
+[   2.636011] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.636276] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseSimple' (0x0100000000000814).
+[   2.637037] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.637176] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseSimple' (0x0100000000000814).
+[   2.637653] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.637982] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseTraditional' (0x0100000000000813).
+[   2.638180] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.638317] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontKorean' (0x0100000000000812).
+[   2.638502] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.638666] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontNintendoExtension' (0x0100000000000810).
+[   2.638704] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.638721] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontNintendoExtension' (0x0100000000000810).
+[   2.638740] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.644009] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontStandard' (0x0100000000000811).
+[   2.644246] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.644483] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseSimple' (0x0100000000000814).
+[   2.645009] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.645142] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseSimple' (0x0100000000000814).
+[   2.645624] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.645941] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontChineseTraditional' (0x0100000000000813).
+[   2.646056] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.646191] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontKorean' (0x0100000000000812).
+[   2.646294] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.646457] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontNintendoExtension' (0x0100000000000810).
+[   2.646486] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.646498] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'FontNintendoExtension' (0x0100000000000810).
+[   2.646514] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.647500] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'TimeZoneBinary' (0x010000000000080E).
+[   2.647543] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.647803] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'TimeZoneBinary' (0x010000000000080E).
+[   2.647829] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[   2.649844] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:128: Patching ExeFS for title_id=01006F8002326000
+[   2.651451] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:175:     ExeFS: LayeredExeFS patches applied successfully
+[   3.138218] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:299: Querying NSO patch existence for build_id=31A2773EA6928FFE3D32B17B3AD08F54826DA39F
+[   3.466706] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:299: Querying NSO patch existence for build_id=7FC1BAFF976AECA414520CB89F4616CB
+[   3.551793] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:299: Querying NSO patch existence for build_id=5A7ADA8DD7447C10AA244944F64D0AFF17C50539
+[   3.639736] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:299: Querying NSO patch existence for build_id=AD3FDFBD62A5F4B082D385FFE420D4400ABB831D
+[   3.805045] Frontend <Info> yuzu\main.cpp:BootGame:1749: Booting game: 01006F8002326000 | Animal Crossing: New Horizons (64-bit) | 1.0.0
+[   4.002524] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:LoadDiskResources:294: Total Pipeline Count: 0
+[   7.173435] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[   7.186719] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[   7.202200] Service.AM <Warning> core\hle\service\am\am.cpp:GetGpuErrorDetectedSystemEvent:1784: (STUBBED) called
+[   7.214889] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:92: (STUBBED) called
+[   7.216041] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:432: (STUBBED) called. unknown0=0, unknown1=0, unknown2=1
+[   7.216938] Service.AM <Warning> core\hle\service\am\am.cpp:SetOutOfFocusSuspendingEnabled:451: (STUBBED) called enabled=false
+[   7.220474] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[   7.223450] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[   7.228543] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[   7.228826] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.019143] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.058379] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.072682] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:419: Patching RomFS for title_id=01006F8002326000, type=01
+[  16.085344] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:419: Patching RomFS for title_id=01006F8002326000, type=01
+[  16.158931] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:Initialize:153: (STUBBED) called
+[  16.163867] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetAruid:193: (STUBBED) called, pid=0x51
+[  16.165659] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetGraphicsFirmwareMemoryMarginEnabled:201: (STUBBED) called
+[  16.173420] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetManagerDisplayService:455: (STUBBED) called
+[  16.174836] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetSystemDisplayService:447: (STUBBED) called
+[  16.175698] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetRelayService:439: (STUBBED) called
+[  16.186153] Service.VI <Warning> core\hle\service\vi\vi.cpp:OpenDisplay:471: (STUBBED) called
+[  16.188998] Service.AM <Warning> core\hle\service\am\am.cpp:CreateManagedDisplayLayer:465: (STUBBED) called
+[  16.197709] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:110: (STUBBED) called id=1, addval=00000001, type=00000000
+[  16.198739] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:110: (STUBBED) called id=1, addval=00000001, type=00000001
+[  16.204869] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:121: (STUBBED) called id=1, unknown=0000000F
+[  16.260000] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.468791] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocGPFIFOEx2:185: (STUBBED) called, num_entries=20000, flags=1, unk0=0, unk1=0, unk2=0, unk3=0
+[  16.469715] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocateObjectContext:204: (STUBBED) called, class_num=B197, flags=0
+[  16.470119] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeout:344: called, timeout=0x266
+[  16.471885] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SetErrorNotifier:165: (STUBBED) called, offset=0, size=1000, mem=10
+[  16.474066] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeslice:352: called, timeslice=0x400
+[  16.509081] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.511181] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.511192] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.511196] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.511198] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.511199] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.511200] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.515999] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516010] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516012] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516013] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516017] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516019] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516021] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516023] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516025] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516026] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516027] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516029] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516030] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516032] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516033] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516034] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516036] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516037] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516039] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516040] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516041] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516043] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.516045] HW.GPU <Warning> video_core\engines\maxwell_3d.cpp:ProcessFirmwareCall4:391: (STUBBED) called
+[  16.530021] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.584915] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.650008] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.686096] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:403: (STUBBED) called flag=true
+[  16.686468] Service.AM <Warning> core\hle\service\am\am.cpp:SetPerformanceModeChangedNotification:413: (STUBBED) called flag=true
+[  16.686806] Service.AM <Warning> core\hle\service\am\am.cpp:SetRestartMessageEnabled:439: (STUBBED) called
+[  16.804248] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  16.805654] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoRestricted:744: (Partial implementation) called
+[  16.805662] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoBase:787: ApplicationInfo init required
+[  17.388279] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:252: (STUBBED) called
+[  17.388287] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:260: Avoiding passing null pointer to memcpy
+[  18.034165] Service.Audio <Info> audio_core\sink\cubeb_sink.cpp:CubebSinkStream:77: Opening cubeb stream ADSP_RenderStream-0 type 0 with: rate 48000 channels 2 (system channels 2) latency 480
+[  18.098386] Service.Audio <Info> audio_core\sink\cubeb_sink.cpp:CubebSinkStream:77: Opening cubeb stream ADSP_RenderStream-1 type 0 with: rate 48000 channels 2 (system channels 2) latency 480
+[  18.173244] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.279955] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.282034] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.282704] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.283262] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.286343] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.454970] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.455717] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.456447] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  18.456843] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  19.682452] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  19.723229] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  23.199201] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'TimeZoneBinary' (0x010000000000080E).
+[  23.199254] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[  23.438981] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  23.439475] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  23.439948] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  23.440394] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  24.674994] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'NgWord2' (0x0100000000000823).
+[  24.675262] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[  24.679657] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'NgWord2' (0x0100000000000823).
+[  24.679889] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[  31.450716] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:403: (STUBBED) called flag=true
+[  31.451369] Service.AM <Warning> core\hle\service\am\am.cpp:SetPerformanceModeChangedNotification:413: (STUBBED) called flag=true
+[  31.455271] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:345: skip empty buffer write
+[  31.811708] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  31.820878] Service.NFC <Info> core\hle\service\nfp\nfp_user.cpp:Initialize:59: called
+[  32.069666] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:68: (STUBBED) called
+[  32.311967] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:AttachAvailabilityChangeEvent:622: called
+[  32.316693] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[  32.390091] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xaf6e3eaf4befa56b
+[  33.106420] Service.AM <Warning> core\hle\service\am\am.cpp:NotifyRunning:1663: (STUBBED) called
+[  33.270658] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x23e25de540799ec3
+[  33.349044] Service.FS <Info> core\hle\service\filesystem\fsp_srv.cpp:OpenSaveDataFileSystem:879: called.
+[  33.647970] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x5e2227e4bd69be54
+[  34.791981] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x2cbfe35f8f9c1d0c
+[  34.802825] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x51928b36c61b1c3d
+[  34.836241] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x99a66ebe95b60718
+[  34.857009] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x1186d740a8c5dd96
+[  42.425396] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x3e5b93b977659906
+[  42.435221] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xabb38b4aeb4d82d9
+[  42.742805] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xf04e6fc824e360d8
+[  42.774939] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xa9c997d2722f224a
+[  42.790730] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x45e8d26bb6e39a58
+[  42.845279] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x0f2c818c35d972e0
+[  42.856643] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x196b9adbbd950578
+[  42.945117] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xe1e273f9c1b9da72
+[  43.014651] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x999236155d91a1b9
+[  43.035148] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xdd2e3bed09efdb05
+[  43.066553] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc2abeae43783c828
+[  43.070089] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xef86c35e25a401ad
+[  43.073627] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x2436358e4f3543f7
+[  43.081341] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7ca20d6ad13782e7
+[  43.106002] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7545009be7789f9c
+[  43.898608] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xca9f1dce1985a3e6
+[  43.907183] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x1064fcc955fee955
+[  43.927386] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7ae0efee953bb6b9
+[  44.094710] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xd5cfde33b6b3ed34
+[  44.253684] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xd2fccab4a705680e
+[  44.255749] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x785c76220f34180b
+[  44.262172] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x06733e98a7618008
+[  44.285589] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x530d9d9fa2baa414
+[  44.295014] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xa80d46562cf03d2c
+[  44.297922] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x9be75b432fa7dd2d
+[  44.316666] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x2e9b1fd278b2023a
+[  44.320542] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xf316805655cbf84d
+[  44.326361] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xe44e7bffa4eea47f
+[  44.342903] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x25abba008547b901
+[  44.345766] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x83de4aa635ccf343
+[  44.350325] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc6cef9bf68ba43fb
+[  44.361325] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xbc8b5510097e6bab
+[  44.366256] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x006ad424dbad2c7d
+[  44.368511] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x4b8b27d8b14decb7
+[  44.376210] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xd9e97417dd52a5cc
+[  44.377843] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x284c7ef5cec61a39
+[  44.387877] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x836d1137b3a066c8
+[  44.388654] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x141728d2f8c62f70
+[  44.414119] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:75: Synthesizing system archive 'TimeZoneBinary' (0x010000000000080E).
+[  44.414169] Service.FS <Info> core\file_sys\system_archive\system_archive.cpp:SynthesizeSystemArchive:90:     - System archive generation successful!
+[  60.831956] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xbbb7da77d816a589
+[  60.835936] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x8084dd81ba654f81
+[  60.852996] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xb9330367864bad76
+[  60.870308] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x5cdc5a3778a6fcf7
+[  60.883055] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xea20cd1ddabc341c
+[  60.898103] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x98c51a72e1f03b20
+[  60.939573] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc2e8737008f81bec
+[  61.016422] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x8a83723ed9c916ea
+[  61.034390] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x71f67d69f0f8804c
+[  61.046573] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xae6899f738432f22
+[  61.047639] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xecb65233e755e22b
+[  61.051774] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc81673e678d3680e
+[  61.055478] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x36d699deef035e51
+[  61.063236] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x8b6fcc1c11162105
+[  61.094686] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7e7c4fa6eb4ccadf
+[  61.604603] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x1b570cf70879a1e5
+[  61.610554] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x21dede13a6335afd
+[  61.632258] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xa4996db042239a30
+[  61.642167] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x0db616f59c27684e
+[  61.647214] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x31626834558f8530
+[  61.659422] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x907dfe5735a85c13
+[  62.061994] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7b5174d8e9a18563
+[  62.064544] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xfbfc53ceda0856b6
+[  62.069566] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x56c34e078adf5c92
+[  62.169499] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xfcf34ca9705c6126
+[  62.181962] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x4d89d273136fa92a
+[  62.335423] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x1572e1680de24267
+[  62.407243] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xa186ced9e7147b7d
+[  62.411971] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x0f8c6a146788ef81
+[  62.417957] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x9a4cad7edf971800
+[  62.429559] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x66033b470df6aa50
+[  62.431779] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x56b71dce03b29817
+[  62.474460] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xfaeaff465403424d
+[  63.582368] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xed97b3ef5790f32d
+[  63.583986] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xab59fb25eaefef53
+[  63.590285] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xf4e96c2ad20e0549
+[  63.595236] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xdb33124a9f4ccf7e
+[  63.603156] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x57e4bf92bf266206
+[  63.640429] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xcc450cb9b8d97175
+[  63.647954] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x403d80b0e985e9c1
+[  63.655510] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x774d463b4490bd59
+[  63.666474] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x9b542d107889b277
+[  63.672171] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xdfe7e1484bec8618
+[  63.690791] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x68145300eb2f630e
+[  63.708361] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xf04cddf62465ed6f
+[  63.715169] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x3c4ae659097eea30
+[  63.730208] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x37361eb79a267e98
+[  63.820120] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xd6610a22c65199f5
+[  63.921230] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc8fe1a226a161b5c
+[  63.937861] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x418bd55551d55ee1
+[  63.942840] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x466152e8372aecd9
+[  63.965282] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc611cfd841b53e50
+[  63.973573] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x483cc69bddae0686
+[  63.975913] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xbacd347b0f5adf94
+[  63.989950] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x8084b61d680629ae
+[  63.997353] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x6dafcd18786edc1d
+[  64.009849] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xa0c2375c30837df3
+[  64.017034] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x9bd4a5fd21a513c9
+[  64.110315] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x620e38ac076549e4
+[  65.305688] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x578eca581b42da25
+[  70.136693] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xb27d53d4977e9975
+[  70.139115] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x1323ca13371316d5
+[  70.247931] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x4429a63bdbeaadfe
+[  70.536452] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x630640ae11d1d241
+[  70.538967] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xc426075a561c51c7
+[  70.550736] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xe9c729036bff1654
+[  74.103101] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xf767bf2bccdd2d61
+[  74.178049] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x3343681a60ef7c80
+[  74.663699] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x35d37b04ca0222c1
+[  74.667809] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0xcb9b79acf8aa0119
+[  74.693863] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x7e2d90729ddf4500
+[  74.750430] Render.OpenGL <Info> video_core\renderer_opengl\gl_shader_cache.cpp:CreateGraphicsPipeline:410: 0x10ab5818bce4b6bf
+[ 102.693464] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:84: Auto-selecting the cubeb backend
+[ 103.047300] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:84: Auto-selecting the cubeb backend
+[ 104.056210] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 104.088654] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 104.122168] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 104.155432] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 104.188884] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 104.222145] Service.NFP <Info> core\hle\service\nfp\nfp_user.cpp:ListDevices:85: called
+[ 126.285337] Service.NVFlinger <Error> core\hle\service\nvflinger\buffer_queue_producer.cpp:DequeueBuffer:258: no available buffer slots
+[ 137.370207] WebService <Error> web_service\web_backend.cpp:GenericRequest:115: POST to https://api.yuzu-emu.org/telemetry returned null (httplib Error: Invalid)
